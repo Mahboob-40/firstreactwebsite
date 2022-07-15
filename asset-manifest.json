@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/firstreactwebsite/static/css/main.719ee0ef.css",
+    "main.js": "/firstreactwebsite/static/js/main.7ac4d527.js",
+    "static/media/digital.jpg": "/firstreactwebsite/static/media/digital.80d02e7738e5de5348b5.jpg",
+    "static/media/marketing.jpg": "/firstreactwebsite/static/media/marketing.987041df79cdb6ba933b.jpg",
+    "static/media/about.png": "/firstreactwebsite/static/media/about.5d5da50a0c87c3aaca1f.png",
+    "static/media/software.jpg": "/firstreactwebsite/static/media/software.1bca807f30a643809a93.jpg",
+    "static/media/home.jpg": "/firstreactwebsite/static/media/home.3757e4833ea53c64d226.jpg",
+    "static/media/web.jpg": "/firstreactwebsite/static/media/web.18640c42b4325e17e7a7.jpg",
+    "static/media/app.jpg": "/firstreactwebsite/static/media/app.a484a50755e12a82c3f2.jpg",
+    "index.html": "/firstreactwebsite/index.html",
+    "main.719ee0ef.css.map": "/firstreactwebsite/static/css/main.719ee0ef.css.map",
+    "main.7ac4d527.js.map": "/firstreactwebsite/static/js/main.7ac4d527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.719ee0ef.css",
+    "static/js/main.7ac4d527.js"
+  ]
+}
